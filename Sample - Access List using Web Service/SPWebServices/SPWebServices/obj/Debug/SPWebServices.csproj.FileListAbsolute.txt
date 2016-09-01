@@ -1,0 +1,12 @@
+D:\Projects\SPWebServices\SPWebServices\bin\Debug\SPWebServices.exe.config
+D:\Projects\SPWebServices\SPWebServices\bin\Debug\SPWebServices.exe
+D:\Projects\SPWebServices\SPWebServices\bin\Debug\SPWebServices.pdb
+D:\Projects\SPWebServices\SPWebServices\obj\Debug\SPWebServices.csprojResolveAssemblyReference.cache
+D:\Projects\SPWebServices\SPWebServices\obj\Debug\SPWebServices.exe
+D:\Projects\SPWebServices\SPWebServices\obj\Debug\SPWebServices.pdb
+D:\Projects\Sample - Access List using Web Service\SPWebServices\SPWebServices\bin\Debug\SPWebServices.exe.config
+D:\Projects\Sample - Access List using Web Service\SPWebServices\SPWebServices\obj\Debug\SPWebServices.exe
+D:\Projects\Sample - Access List using Web Service\SPWebServices\SPWebServices\obj\Debug\SPWebServices.pdb
+D:\Projects\Sample - Access List using Web Service\SPWebServices\SPWebServices\bin\Debug\SPWebServices.exe
+D:\Projects\Sample - Access List using Web Service\SPWebServices\SPWebServices\bin\Debug\SPWebServices.pdb
+D:\Projects\Sample - Access List using Web Service\SPWebServices\SPWebServices\obj\Debug\SPWebServices.csprojResolveAssemblyReference.cache
