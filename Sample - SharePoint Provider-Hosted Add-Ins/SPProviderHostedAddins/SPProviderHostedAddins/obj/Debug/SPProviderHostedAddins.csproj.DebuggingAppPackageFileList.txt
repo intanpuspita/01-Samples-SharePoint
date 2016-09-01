@@ -1,0 +1,1 @@
+D:\Projects\SPProviderHostedAddins\SPProviderHostedAddins\bin\Debug\SPProviderHostedAddins.debugapp

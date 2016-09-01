@@ -1,0 +1,3 @@
+D:\Projects\SPProviderHostedAddins\SPProviderHostedAddins\bin\Debug\SPProviderHostedAddins.pdb
+D:\Projects\SPProviderHostedAddins\SPProviderHostedAddins\obj\Debug\SPProviderHostedAddins.dll
+D:\Projects\SPProviderHostedAddins\SPProviderHostedAddins\obj\Debug\SPProviderHostedAddins.pdb
