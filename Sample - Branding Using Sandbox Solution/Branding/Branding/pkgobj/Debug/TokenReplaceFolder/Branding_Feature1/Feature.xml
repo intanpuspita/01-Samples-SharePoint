@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="9f9aa5c3-e8c3-4cf4-a749-a40469114601" Scope="Web" Title="Branding Feature1">
+  <ElementManifests>
+    <ElementManifest Location="MyCustomMaster\Elements.xml" />
+    <ElementFile Location="MyCustomMaster\Sample.txt" />
+    <ElementFile Location="MyCustomMaster\MyCustomMaster.master" />
+  </ElementManifests>
+</Feature>

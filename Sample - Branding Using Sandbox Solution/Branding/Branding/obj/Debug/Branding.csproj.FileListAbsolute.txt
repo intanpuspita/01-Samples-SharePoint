@@ -1,0 +1,4 @@
+D:\Projects\Branding\Branding\bin\Debug\Branding.dll
+D:\Projects\Branding\Branding\bin\Debug\Branding.pdb
+D:\Projects\Branding\Branding\obj\Debug\Branding.dll
+D:\Projects\Branding\Branding\obj\Debug\Branding.pdb

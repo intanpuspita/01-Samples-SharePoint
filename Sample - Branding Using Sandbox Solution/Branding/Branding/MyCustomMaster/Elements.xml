@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="MyCustomMaster">
+    <File Path="MyCustomMaster\MyCustomMaster.master" Url="_catalogs/masterpage/MyCustomMaster.master" />
+  </Module>
+</Elements>
