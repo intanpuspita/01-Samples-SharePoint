@@ -1,0 +1,5 @@
+D:\Projects\VisualWebPartProject\VisualWebPartProject\bin\Debug\VisualWebPartProject.dll
+D:\Projects\VisualWebPartProject\VisualWebPartProject\bin\Debug\VisualWebPartProject.pdb
+D:\Projects\VisualWebPartProject\VisualWebPartProject\obj\Debug\VisualWebPartProject.csprojResolveAssemblyReference.cache
+D:\Projects\VisualWebPartProject\VisualWebPartProject\obj\Debug\VisualWebPartProject.dll
+D:\Projects\VisualWebPartProject\VisualWebPartProject\obj\Debug\VisualWebPartProject.pdb
