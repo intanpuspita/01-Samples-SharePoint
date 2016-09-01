@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="501ef2c5-d25d-450d-8311-180917ea3cf9" 
+        solutionId="501ef2c5-d25d-450d-8311-180917ea3cf9" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CRUD_JSOM"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="98bf4a17-95b7-4484-9ba2-643d85c91f1b" />
+  </features>
+</package>

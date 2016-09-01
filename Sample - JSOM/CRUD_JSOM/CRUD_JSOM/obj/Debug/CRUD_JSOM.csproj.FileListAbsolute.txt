@@ -1,0 +1,3 @@
+D:\Projects\CRUD_JSOM\CRUD_JSOM\bin\Debug\CRUD_JSOM.pdb
+D:\Projects\CRUD_JSOM\CRUD_JSOM\obj\Debug\CRUD_JSOM.dll
+D:\Projects\CRUD_JSOM\CRUD_JSOM\obj\Debug\CRUD_JSOM.pdb
