@@ -1,0 +1,4 @@
+D:\Projects\EmployeeOrientation\EmployeeOrientation\bin\Debug\EmployeeOrientation.pdb
+D:\Projects\EmployeeOrientation\EmployeeOrientation\obj\Debug\EmployeeOrientation.dll
+D:\Projects\EmployeeOrientation\EmployeeOrientation\obj\Debug\EmployeeOrientation.pdb
+D:\Projects\EmployeeOrientation\EmployeeOrientation\obj\Debug\EmployeeOrientation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="62a2facb-6659-4443-bd8e-04f573c9b6de" 
+        solutionId="62a2facb-6659-4443-bd8e-04f573c9b6de" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="EmployeeOrientation"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="66c5075e-8e1b-42da-8eb2-c2d2bf1451fc" />
+  </features>
+</package>
