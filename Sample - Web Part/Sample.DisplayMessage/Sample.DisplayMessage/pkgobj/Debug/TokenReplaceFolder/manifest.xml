@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="74b2d4f9-c8e9-4d1b-aa5b-aee9bbac3890" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Sample.DisplayMessage.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Sample.DisplayMessage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5a53da4095190f07" Namespace="Sample.DisplayMessage.DisplayMessageWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Sample.DisplayMessage_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

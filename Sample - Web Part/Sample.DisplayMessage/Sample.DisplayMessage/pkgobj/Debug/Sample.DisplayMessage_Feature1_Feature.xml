@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="f9136f1e-c15e-4455-91b1-e7395b541c33" Scope="Site" Title="Sample.DisplayMessage Feature1">
+  <ElementManifests>
+    <ElementManifest Location="DisplayMessageWebPart\Elements.xml" />
+    <ElementFile Location="DisplayMessageWebPart\DisplayMessageWebPart.webpart" />
+  </ElementManifests>
+</Feature>

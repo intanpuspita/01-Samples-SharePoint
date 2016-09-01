@@ -1,0 +1,5 @@
+D:\Projects\Sample.DisplayMessage\Sample.DisplayMessage\obj\Debug\Sample.DisplayMessage.csprojResolveAssemblyReference.cache
+D:\Projects\Sample.DisplayMessage\Sample.DisplayMessage\bin\Debug\Sample.DisplayMessage.dll
+D:\Projects\Sample.DisplayMessage\Sample.DisplayMessage\bin\Debug\Sample.DisplayMessage.pdb
+D:\Projects\Sample.DisplayMessage\Sample.DisplayMessage\obj\Debug\Sample.DisplayMessage.dll
+D:\Projects\Sample.DisplayMessage\Sample.DisplayMessage\obj\Debug\Sample.DisplayMessage.pdb
