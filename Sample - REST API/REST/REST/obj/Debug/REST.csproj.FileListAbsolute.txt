@@ -1,0 +1,3 @@
+D:\Projects\REST\REST\bin\Debug\REST.pdb
+D:\Projects\REST\REST\obj\Debug\REST.dll
+D:\Projects\REST\REST\obj\Debug\REST.pdb
