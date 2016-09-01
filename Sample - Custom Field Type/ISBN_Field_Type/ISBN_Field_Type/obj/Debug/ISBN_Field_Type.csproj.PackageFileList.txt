@@ -1,0 +1,1 @@
+bin\Debug\ISBN_Field_Type.wsp

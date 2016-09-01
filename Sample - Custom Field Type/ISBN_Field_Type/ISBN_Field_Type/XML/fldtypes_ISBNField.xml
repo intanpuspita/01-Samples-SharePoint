@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">ISBN</Field>
+    <Field Name="ParentType">Text</Field>
+    <Field Name="TypeDisplayName">ISBN</Field>
+    <Field Name="TypeShortDescription">ISBN for a book</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListCreate">TRUE</Field>
+    <Field Name="ShowOnSurveyCreate">TRUE</Field>
+    <Field Name="ShowOnDocumentLibraryCreate">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateCreate">TRUE</Field>
+    <Field Name="FieldTypeClass">Contoso.SharePoint.ISBNField, $SharePoint.Project.AssemblyFullName$</Field>
+  </FieldType>
+</FieldTypes>

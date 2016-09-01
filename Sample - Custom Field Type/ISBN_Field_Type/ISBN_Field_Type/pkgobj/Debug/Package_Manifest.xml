@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ef6d3dbc-4499-4834-b9cf-fed3cb2fd51e" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Contoso.SharePoint.ISBN_Field_Type.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\ISBNFieldControl.ascx" />
+    <TemplateFile Location="XML\fldtypes_ISBNField.xml" />
+    <TemplateFile Location="LAYOUTS\XSL\fldtypes_ISBNField.xslt" />
+  </TemplateFiles>
+</Solution>

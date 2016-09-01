@@ -1,0 +1,5 @@
+D:\Projects\ISBN_Field_Type\ISBN_Field_Type\bin\Debug\Contoso.SharePoint.ISBN_Field_Type.dll
+D:\Projects\ISBN_Field_Type\ISBN_Field_Type\bin\Debug\Contoso.SharePoint.ISBN_Field_Type.pdb
+D:\Projects\ISBN_Field_Type\ISBN_Field_Type\obj\Debug\ISBN_Field_Type.csprojResolveAssemblyReference.cache
+D:\Projects\ISBN_Field_Type\ISBN_Field_Type\obj\Debug\Contoso.SharePoint.ISBN_Field_Type.dll
+D:\Projects\ISBN_Field_Type\ISBN_Field_Type\obj\Debug\Contoso.SharePoint.ISBN_Field_Type.pdb

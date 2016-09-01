@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ef6d3dbc-4499-4834-b9cf-fed3cb2fd51e" solutionId="ef6d3dbc-4499-4834-b9cf-fed3cb2fd51e" resetWebServer="false" name="ISBN_Field_Type" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="6a3a109b-af7c-4ba8-bd41-9c2bfc28b8c7" />
+    <projectItemReference itemId="e2f80c08-7415-493b-8f21-52a3f11a3336" />
+    <projectItemReference itemId="17671175-7b71-4dc1-97d9-9c610ec720f1" />
+  </projectItems>
+</package>
