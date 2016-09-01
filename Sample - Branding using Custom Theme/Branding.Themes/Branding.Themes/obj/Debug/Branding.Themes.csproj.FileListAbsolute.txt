@@ -1,0 +1,3 @@
+D:\Projects\Branding.Themes\Branding.Themes\bin\Debug\Branding.Themes.pdb
+D:\Projects\Branding.Themes\Branding.Themes\obj\Debug\Branding.Themes.dll
+D:\Projects\Branding.Themes\Branding.Themes\obj\Debug\Branding.Themes.pdb

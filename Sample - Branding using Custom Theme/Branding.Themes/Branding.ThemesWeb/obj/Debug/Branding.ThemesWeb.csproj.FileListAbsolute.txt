@@ -1,0 +1,10 @@
+D:\Projects\Branding.Themes\Branding.ThemesWeb\bin\Branding.ThemesWeb.dll.config
+D:\Projects\Branding.Themes\Branding.ThemesWeb\bin\Branding.ThemesWeb.dll
+D:\Projects\Branding.Themes\Branding.ThemesWeb\bin\Branding.ThemesWeb.pdb
+D:\Projects\Branding.Themes\Branding.ThemesWeb\bin\Microsoft.IdentityModel.dll
+D:\Projects\Branding.Themes\Branding.ThemesWeb\bin\Microsoft.IdentityModel.Extensions.dll
+D:\Projects\Branding.Themes\Branding.ThemesWeb\bin\Microsoft.SharePoint.Client.dll
+D:\Projects\Branding.Themes\Branding.ThemesWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\Projects\Branding.Themes\Branding.ThemesWeb\obj\Debug\Branding.ThemesWeb.csprojResolveAssemblyReference.cache
+D:\Projects\Branding.Themes\Branding.ThemesWeb\obj\Debug\Branding.ThemesWeb.dll
+D:\Projects\Branding.Themes\Branding.ThemesWeb\obj\Debug\Branding.ThemesWeb.pdb
